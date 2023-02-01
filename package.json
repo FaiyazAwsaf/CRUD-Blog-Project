@@ -1,0 +1,18 @@
+{
+  "name": "crud-blog-project",
+  "version": "1.0.0",
+  "description": "Blog website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faiyaz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^6.9.0"
+  }
+}
